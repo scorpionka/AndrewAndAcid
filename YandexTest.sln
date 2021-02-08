@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AndrewAndAcid", "AndrewAndAcid\AndrewAndAcid.vcxproj", "{8D2B4AC2-A8E5-442E-8650-E895EF50B445}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoardingThePlane", "BoardingThePlane\BoardingThePlane.vcxproj", "{52065ADD-4323-4999-A6AC-5BDA354B0070}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "distance", "distance\distance.vcxproj", "{D2C8087C-9555-4175-99A5-7AABCF5029BD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SatelliteImagery", "SatelliteImagery\SatelliteImagery.vcxproj", "{443F8400-9BB2-4750-A5E4-FC69245AF590}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{A1D4DAED-F006-4F93-A0D3-321D0F32EBE3}"
+	ProjectSection(SolutionItems) = preProject
+		readme\AndrewAndAcid.docx = readme\AndrewAndAcid.docx
+		readme\BoardingThePlane.docx = readme\BoardingThePlane.docx
+		readme\Distance.docx = readme\Distance.docx
+		readme\SatelliteImagery.docx = readme\SatelliteImagery.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2B4AC2-A8E5-442E-8650-E895EF50B445}.Debug|x64.ActiveCfg = Debug|x64
+		{8D2B4AC2-A8E5-442E-8650-E895EF50B445}.Debug|x64.Build.0 = Debug|x64
+		{8D2B4AC2-A8E5-442E-8650-E895EF50B445}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D2B4AC2-A8E5-442E-8650-E895EF50B445}.Debug|x86.Build.0 = Debug|Win32
+		{8D2B4AC2-A8E5-442E-8650-E895EF50B445}.Release|x64.ActiveCfg = Release|x64
+		{8D2B4AC2-A8E5-442E-8650-E895EF50B445}.Release|x64.Build.0 = Release|x64
+		{8D2B4AC2-A8E5-442E-8650-E895EF50B445}.Release|x86.ActiveCfg = Release|Win32
+		{8D2B4AC2-A8E5-442E-8650-E895EF50B445}.Release|x86.Build.0 = Release|Win32
+		{52065ADD-4323-4999-A6AC-5BDA354B0070}.Debug|x64.ActiveCfg = Debug|x64
+		{52065ADD-4323-4999-A6AC-5BDA354B0070}.Debug|x64.Build.0 = Debug|x64
+		{52065ADD-4323-4999-A6AC-5BDA354B0070}.Debug|x86.ActiveCfg = Debug|Win32
+		{52065ADD-4323-4999-A6AC-5BDA354B0070}.Debug|x86.Build.0 = Debug|Win32
+		{52065ADD-4323-4999-A6AC-5BDA354B0070}.Release|x64.ActiveCfg = Release|x64
+		{52065ADD-4323-4999-A6AC-5BDA354B0070}.Release|x64.Build.0 = Release|x64
+		{52065ADD-4323-4999-A6AC-5BDA354B0070}.Release|x86.ActiveCfg = Release|Win32
+		{52065ADD-4323-4999-A6AC-5BDA354B0070}.Release|x86.Build.0 = Release|Win32
+		{D2C8087C-9555-4175-99A5-7AABCF5029BD}.Debug|x64.ActiveCfg = Debug|x64
+		{D2C8087C-9555-4175-99A5-7AABCF5029BD}.Debug|x64.Build.0 = Debug|x64
+		{D2C8087C-9555-4175-99A5-7AABCF5029BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2C8087C-9555-4175-99A5-7AABCF5029BD}.Debug|x86.Build.0 = Debug|Win32
+		{D2C8087C-9555-4175-99A5-7AABCF5029BD}.Release|x64.ActiveCfg = Release|x64
+		{D2C8087C-9555-4175-99A5-7AABCF5029BD}.Release|x64.Build.0 = Release|x64
+		{D2C8087C-9555-4175-99A5-7AABCF5029BD}.Release|x86.ActiveCfg = Release|Win32
+		{D2C8087C-9555-4175-99A5-7AABCF5029BD}.Release|x86.Build.0 = Release|Win32
+		{443F8400-9BB2-4750-A5E4-FC69245AF590}.Debug|x64.ActiveCfg = Debug|x64
+		{443F8400-9BB2-4750-A5E4-FC69245AF590}.Debug|x64.Build.0 = Debug|x64
+		{443F8400-9BB2-4750-A5E4-FC69245AF590}.Debug|x86.ActiveCfg = Debug|Win32
+		{443F8400-9BB2-4750-A5E4-FC69245AF590}.Debug|x86.Build.0 = Debug|Win32
+		{443F8400-9BB2-4750-A5E4-FC69245AF590}.Release|x64.ActiveCfg = Release|x64
+		{443F8400-9BB2-4750-A5E4-FC69245AF590}.Release|x64.Build.0 = Release|x64
+		{443F8400-9BB2-4750-A5E4-FC69245AF590}.Release|x86.ActiveCfg = Release|Win32
+		{443F8400-9BB2-4750-A5E4-FC69245AF590}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0632C8F8-8285-4EC0-9028-CBCDBD34337F}
+	EndGlobalSection
+EndGlobal
